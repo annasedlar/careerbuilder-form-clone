@@ -1,0 +1,73 @@
+body{
+	background-color: lightgrey;
+}
+
+#header{
+	margin: auto;
+	margin-bottom: 20px;
+	padding: 10px;
+
+}
+
+.container{
+	text-align: left;
+	width: 90%;
+	margin: auto;
+	background-color: white;
+
+}
+
+.top{
+	border-bottom: 1px solid lightgrey;
+	margin-top: 10px;
+}
+
+label{
+	width: 80%;
+}
+
+.form-wrapper{
+	padding:  10px;
+}
+
+.form-wrapper input{
+	margin: 10px auto 5px;
+	border: 1px solid lightgrey;
+	height:  30px;
+	width: 100%;
+	display: block;
+}
+
+#submitbar{
+	width: 550px;
+}
+
+.submit{
+	background-color: #9DD865;
+	color: white;
+	width: 300px;
+}
+
+h6{
+	color: lightgrey;
+	font-style: italic;
+}
+span{
+	color:  orange;
+}
+
+.category{
+	color: darkgrey;
+	padding: 20px;
+	}
+
+.error{
+	color: red;
+	font-size: 10px;
+}
+
+.form-wrapper input.form-wrapper-after{
+
+	border: 1px solid red;
+
+}
